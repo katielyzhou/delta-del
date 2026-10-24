@@ -1,0 +1,24 @@
+name: delta-del
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python<3.12
+  - pyarrow
+  - fastparquet
+  - rdkit=2024.03.6
+  - pip
+  - pip:
+      - matplotlib
+      - seaborn
+      - numpy
+      - scipy
+      - joblib
+      - pyyaml
+      - scikit-learn==1.8.0
+      - tqdm
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch
+      - torchvision
+      - chembl_webresource_client

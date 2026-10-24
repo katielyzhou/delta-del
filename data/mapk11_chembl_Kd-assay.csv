@@ -1,0 +1,11 @@
+assay_chembl_id,smiles,molecule_chembl_id,potential_duplicate,relation,standard_units,kd,units,value,assay_type,confidence_score,is_non_unique_molecule,smiles_a,smiles_b,smiles_c
+CHEMBL3991771,COc1cc2ncnc(Oc3cccc(NC(=O)Nc4cc(C(C)(C)C(F)(F)F)on4)c3)c2cc1OC,CHEMBL2029988,0,=,nM,872.0,nM,872.0,B,9,False,,,
+CHEMBL3991771,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1,CHEMBL1946170,0,=,nM,1911.0,nM,1911.0,B,9,False,,,
+CHEMBL3991771,Cc1ccc(-n2nc(C(C)(C)C)cc2NC(=O)NCc2cc(F)ccc2Oc2ccc3c(cnn3CCO)c2)cc1,CHEMBL3991932,0,=,nM,192.0,nM,192.0,B,9,False,,,
+CHEMBL3991771,Cc1c(F)cc(C(=O)NC2CC2)cc1-c1ccc(C(=O)NCC(C)(C)C)cn1,CHEMBL1088752,0,=,nM,29.0,nM,29.0,B,9,False,,,
+CHEMBL3991771,C[C@@H](NC(=O)c1ncnc(N)c1Cl)c1ncc(C(=O)Nc2cc(C(F)(F)F)c(Cl)cn2)s1,CHEMBL3348923,0,=,nM,684.0,nM,684.0,B,9,False,,,
+CHEMBL3991771,CNC(=O)c1ccc(C)c(-n2c(C)cc(OCc3ccc(F)cc3F)c(Br)c2=O)c1,CHEMBL1088751,0,=,nM,102.0,nM,102.0,B,9,False,,,
+CHEMBL3991771,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,CHEMBL1173655,0,=,nM,2811.0,nM,2811.0,B,9,False,,,
+CHEMBL3991771,C[C@]1(O)C[C@@H](c2nc(-c3ccc4ccc(-c5ccccc5)nc4c3)c3c(N)nccn32)C1,CHEMBL1091644,0,=,nM,10.0,nM,10.0,B,9,False,,,
+CHEMBL3991771,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,CHEMBL1171837,0,=,nM,1012.0,nM,1012.0,B,9,False,,,
+CHEMBL3991771,Cc1ccc(NC(=O)c2ccc(CN3CC[C@H](N(C)C)C3)c(C(F)(F)F)c2)cc1Nc1nccc(-c2cncnc2)n1,CHEMBL206834,0,=,nM,1723.0,nM,1723.0,B,9,False,,,

@@ -1,0 +1,8 @@
+model_type: mlp
+n_jobs: -1
+in_dim: 1024
+hidden_dim: 64
+out_dim: 1
+dropout: 0.1
+batch_size: 128
+num_epochs: 20
